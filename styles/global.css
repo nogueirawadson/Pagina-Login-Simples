@@ -9,14 +9,16 @@
 }
 
 body {
-  background: linear-gradient(-45deg, rgba(20, 255, 216, 0.5), rgba(127, 230, 242, 0.5),
+  background-image: radial-gradient( rgba(20, 255, 216, 0.5), rgba(127, 230, 242, 0.5),
       rgba(95, 239, 255, 0.733), rgba(20, 255, 216, 0.2),
       rgba(127, 230, 242, 0.3), rgba(95, 239, 255, 0.3));
   margin: 0;
-  height: 100vh;
+
+  height: 500vh;
   background-size: 200% 200%;
   animation: back 12s ease infinite;
   animation-direction: alternate-reverse;
+ 
   
 
 
