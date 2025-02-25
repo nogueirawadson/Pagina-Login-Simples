@@ -7,7 +7,3 @@ const ocultar = function () {
   account.style.display === "none" ? account.style.display = "flex" :
     account.style.display = "none";
 }
-
-
-
-
